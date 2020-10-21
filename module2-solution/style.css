@@ -10,7 +10,7 @@
 
   h3{ 
       float: right;
-      border: black solid 2px;
+      border: black solid 1px;
       margin:-2px -2px 0 0;
       padding: 0 30px 0 30px;
   }
@@ -28,7 +28,7 @@
     width:100%;
   }
   .row div{
-    border: 2px solid black;
+    border: 1px solid black;
     padding:0;
     float:left;
     margin-top: 10px;
