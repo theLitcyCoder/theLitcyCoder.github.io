@@ -25,7 +25,6 @@
   /* Simple Responsive Framework. */
   .row{
     padding:0;
-    text-align: center;
     width:100%;
   }
   .row div{
